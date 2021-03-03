@@ -47,12 +47,11 @@ const StudentList = () => {
       <div
         style={{
           height: 700,
-          border: "solid blue",
         }}
       >
         <form
           style={{
-            border: "solid red",
+            marginTop: 20,
             width: 800,
             height: 400,
             margin: "auto",

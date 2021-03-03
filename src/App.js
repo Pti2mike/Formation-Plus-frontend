@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Formation-Plus</h1>
+      <h1 style={{ textAlign: "center" }}>Formation-Plus</h1>
       <StudentList />
     </div>
   );
